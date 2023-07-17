@@ -79,7 +79,7 @@ padding: 70%;
 border-radius: 6px;
 }
 .entry{
-    background-image: url(/assets/tree.jpg);
+    background-image: url(./assets/tree.jpg);
     background-position: center left;
     background-repeat: no-repeat;
 }
@@ -293,26 +293,26 @@ border-radius: 6px;
     pointer-events: none;
   }
   .about-banner{
-    background-image: url(/assets/welcome-banner.png);
+    background-image: url(./assets/welcome-banner.png);
 
   }
   .academics-banner{
-    background-image: url(/assets/academics-banner.jpg);
+    background-image: url(./assets/academics-banner.jpg);
 
   }
   .facilities-banner{
-    background-image: url(/assets/facilities.jpg);
+    background-image: url(./assets/facilities.jpg);
 
 
   }
   .gallery-banner{
-    background-image: url(/assets/board.jpg);
+    background-image: url(./assets/board.jpg);
 
 
     
   }
   .contact-banner{
-    background-image: url(/assets/contact.jpg);
+    background-image: url(./assets/contact.jpg);
 
 
   }
