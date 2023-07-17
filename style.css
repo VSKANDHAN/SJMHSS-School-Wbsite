@@ -275,6 +275,13 @@ border-radius: 6px;
     font-size: 16px;
    }
   }
+  @media (max-width:405px) {
+    .navbar-brand img{
+        width: 120px;
+       
+    }
+    
+  }
 
 /* ---------------------Home Page End------------------ */
 .banner {
@@ -669,12 +676,12 @@ padding-top: 3  0px;
   }
  
 
-  .intro>.animate {
+  /* .intro>.animate {
     opacity: 0;
     transform: translateX(-50px);
     transition: opacity 0.8s ease, transform 0.8s ease;
-  }
-  .animate.active {
+  } */
+  .active {
     opacity: 1;
     transform: translateX(0);
   }
